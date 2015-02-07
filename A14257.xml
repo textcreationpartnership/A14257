@@ -4390,7 +4390,10 @@ The lady sayd my ryght dere loue go in goddes name the whiche geue you grace to 
                   <g ref="char:leaf">❧</g> How Ualentine rode a way with Clerymonde, and how the kyng of Brytayne was yeldd vnto kyng Pe<g ref="char:EOLunhyphen"/>pyn by treason. L<gap reason="illegible" resp="#APEX" extent="1 letter">
                      <desc>•</desc>
                   </gap>pit. C. ii.</head>
-               <figure/>
+               <p>
+                  <pb facs="tcp:11811:221"/>
+                  <figure/>
+               </p>
                <p>
                   <seg rend="decorInit">U</seg>Alentyne open<gap reason="illegible" resp="#APEX" extent="1 span">
                      <desc>〈…〉</desc>
